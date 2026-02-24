@@ -19,3 +19,9 @@ Python | React | Node.js | Automation | Enterprise Systems
 
 ### Connect with me
 LinkedIn: https://www.linkedin.com/in/darshana-patil-27840b23b/
+
+### Languages and Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,react,nodejs,js,html,css,mysql,git,docker,aws" />
+</p>

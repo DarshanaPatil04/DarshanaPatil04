@@ -1,4 +1,4 @@
-# Hi 👋, I'm Darshana
+# Hi 👋, I'm Darshana Patil
 
 Software Developer | Full Stack Engineer  
 Python | React | Node.js | Automation | Enterprise Systems  
